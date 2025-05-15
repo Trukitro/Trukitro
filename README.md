@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rikion/Trukitro 👋
 
-<!--
-**Trukitro/Trukitro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineer | ❤️ Software Developer  
+🌱 Always learning, always building  
+🚀 I love open source, creative coding, and sharing with the community!
 
-Here are some ideas to get you started:
+## 🚩 Projects
+- [Lawn Mowing Forecast Tool](https://github.com/Trukitro/lawn-mowing-forecast) 🌱
+- [Other cool project](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Trukitro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trukitro&show_icons=true&theme=radical)
+
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Website](https://img.shields.io/badge/Website-visit-brightgreen)](https://yourwebsite.com)
+
+<!-- Add more fun widgets or info here! -->
