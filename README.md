@@ -6,7 +6,7 @@
 
 ## 🚩 Projects
 - [Lawn Mowing Forecast Tool](https://github.com/Trukitro/lawn-mowing-forecast) 🌱
-- [Other cool project](#)
+- [Other cool project](https://github.com/Trukitro?tab=repositories)
 
 ## 📊 GitHub Stats
 ![Trukitro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trukitro&show_icons=true&theme=radical)
