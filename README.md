@@ -1,13 +1,26 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rikion+%F0%9F%91%8B;Computer+Engineer+%26+Software+Developer;I+build+small+tools+that+fix+real+annoyances;Git%2FGitHub+workflow+nerd+-+gh+CLI+%2B+Conventional+Commits" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <a href="https://github.com/Trukitro">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Rikion" alt="Hello! I'm Rikion" />
+  </a>
+</p>
 
-🔭 Ahora mismo: limpiando y automatizando mi flujo de Git/GitHub
-🛠️ Construyo herramientas pequeñas que resuelven molestias reales — converters, forecast utilities, dashboards de sistema
-🌱 Always learning, always building
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=44&lines=Computer%20Engineer%20%26%20Software%20Developer;I%20build%20small%20tools%20that%20fix%20real%20annoyances;Git%2FGitHub%20workflow%20nerd%20-%20gh%20CLI%20%2B%20Conventional%20Commits" alt="Typing headlines" />
+</p>
 
-## 🧰 Stack
-<img src="https://skillicons.dev/icons?i=python,flask,git,github,windows,vscode" alt="stack" />
+### 🚀 About Me
+
+Ingeniero en Computadoras y Desarrollador de Software. Construyo aplicaciones robustas utilizando Python, el framework Web2py y bases de datos MSSQL. Actualmente aportando soluciones tecnológicas para JMed Technologies.
+
+🔭 &nbsp;I'm currently working on **desarrollo backend, configuraciones de Web2py y optimizando la infraestructura y network tunneling de mi servidor privado para videojuegos**
+🌱 &nbsp;I'm currently learning **técnicas avanzadas de optimización de queries en MSSQL**
+👯 &nbsp;I'm looking to collaborate on **proyectos interesantes en Python, scripts de automatización de servidores o herramientas que faciliten la administración de bases de datos**
+🤔 &nbsp;I'm looking for help with **workarounds y configuraciones avanzadas en VS Code**
+💬 &nbsp;Ask me about **Python, Web2py, y bases de datos**
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,windows,vscode" alt="stack" />
 
 ## 🚩 Projects
 
@@ -25,20 +38,35 @@ Todos mis repos públicos están en [github.com/Trukitro?tab=repositories](https
 
 </details>
 
-## 📊 GitHub Stats
-![Trukitro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trukitro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trukitro&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trukitro&theme=radical)
+### 📊 GitHub Stats
 
-## 📈 Latest Activity
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Trukitro&theme=react-dark)
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Trukitro&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Trukitro&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trukitro&theme=radical" alt="GitHub Streak" />
+</p>
 
-## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Trukitro&theme=radical&no-frame=true&row=1&margin-w=8)
+### 📈 Contribution Graph
 
-## 🐍 Contribution Snake
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Trukitro&theme=react-dark" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
+</p>
+
+### 🐍 Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trukitro/Trukitro/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trukitro/Trukitro/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Trukitro/Trukitro/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/Trukitro">Trukitro</a></i></p>
