@@ -26,7 +26,10 @@ Ingeniero en Computadoras y Desarrollador de Software. Construyo aplicaciones ro
 
 | Repo | Qué hace |
 |---|---|
+| [PulseGuard](https://github.com/Trukitro/PulseGuard) 🩺 | Watchdog de recursos para Windows, backend Python + UI web-native, empaquetado como instalador |
 | [SVG-Converter](https://github.com/Trukitro/SVG-Converter) 🎨 | Conversión rápida de SVG en local |
+| [Etch-DB-Mapper](https://github.com/Trukitro/Etch-DB-Mapper) 🗺️ | Mapeo visual de esquemas de bases de datos relacionales (SQL Server, Postgres) |
+| [SSH-Console-Launcher](https://github.com/Trukitro/SSH-Console-Launcher) 🔐 | GUI para administrar múltiples sesiones SSH con perfiles, tabs y auto-login |
 | [DiskInfo](https://github.com/Trukitro/DiskInfo) 💾 | Utilidad de información de disco/almacenamiento para Windows |
 | [Lawn Mowing Forecast Tool](https://github.com/Trukitro/lawn-mowing-forecast) 🌱 | Programador de corte de césped basado en el clima |
 
