@@ -22,6 +22,8 @@ Ingeniero en Computadoras y Desarrollador de Software. Construyo aplicaciones ro
 
 <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,windows,vscode" alt="stack" />
 
+📲 &nbsp;¿Necesitas un presupuesto? [Cotiza aquí](https://trukitro.github.io/cotizaciones/)
+
 ## 🚩 Projects
 
 | Repo | Qué hace |
@@ -32,6 +34,7 @@ Ingeniero en Computadoras y Desarrollador de Software. Construyo aplicaciones ro
 | [SSH-Console-Launcher](https://github.com/Trukitro/SSH-Console-Launcher) 🔐 | GUI para administrar múltiples sesiones SSH con perfiles, tabs y auto-login |
 | [DiskInfo](https://github.com/Trukitro/DiskInfo) 💾 | Utilidad de información de disco/almacenamiento para Windows |
 | [Lawn Mowing Forecast Tool](https://github.com/Trukitro/lawn-mowing-forecast) 🌱 | Programador de corte de césped basado en el clima |
+| [Cotizaciones](https://github.com/Trukitro/cotizaciones) 💬 | Landing page de cotización de servicios, con backend Supabase + notificaciones EmailJS |
 
 <details>
 <summary>Ver más repos</summary>
