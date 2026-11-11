@@ -20,7 +20,7 @@ Ingeniero en Computadoras y Desarrollador de Software. Construyo aplicaciones ro
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,windows,vscode" alt="stack" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,sqlite,mysql,js,html,css,rust,git,github,windows,vscode" alt="stack" />
 
 📲 &nbsp;¿Necesitas un presupuesto? [Cotiza aquí](https://trukitro.github.io/cotizaciones/)
 
@@ -28,8 +28,11 @@ Ingeniero en Computadoras y Desarrollador de Software. Construyo aplicaciones ro
 
 | Repo | Qué hace |
 |---|---|
+| [SpaceSweep](https://github.com/Trukitro/SpaceSweep) 🧹 | Libera espacio en Windows sin adivinar qué es seguro borrar: limpieza explicada, explorador de disco, organizador de Descargas y buscador de duplicados (ES/EN) · [v1.0.0](https://github.com/Trukitro/SpaceSweep/releases/latest) |
+| [CuentaClara](https://github.com/Trukitro/CuentaClara) 💰 | Finanzas personales de escritorio a partir de CSV bancarios, 100 % local (FastAPI + WebView) · [v4.9.0](https://github.com/Trukitro/CuentaClara/releases/latest) |
 | [PulseGuard](https://github.com/Trukitro/PulseGuard) 🩺 | Watchdog de recursos para Windows, backend Python + UI web-native, empaquetado como instalador |
-| [SVG-Converter](https://github.com/Trukitro/SVG-Converter) 🎨 | Conversión rápida de SVG en local |
+| [Koorui Keyboard Software](https://github.com/Trukitro/Koorui_Keyboard_Software) ⌨️ | App de bandeja para Windows: batería y luces del teclado KOORUI 75 % inalámbrico |
+| [SVG-Converter](https://github.com/Trukitro/SVG-Converter) 🎨 | Convierte SVG a PNG/ICO/JPG/WEBP en uno o varios tamaños, con GUI drag & drop |
 | [Etch-DB-Mapper](https://github.com/Trukitro/Etch-DB-Mapper) 🗺️ | Mapeo visual de esquemas de bases de datos relacionales (SQL Server, Postgres) |
 | [SSH-Console-Launcher](https://github.com/Trukitro/SSH-Console-Launcher) 🔐 | GUI para administrar múltiples sesiones SSH con perfiles, tabs y auto-login |
 | [DiskInfo](https://github.com/Trukitro/DiskInfo) 💾 | Utilidad de información de disco/almacenamiento para Windows |
@@ -39,6 +42,10 @@ Ingeniero en Computadoras y Desarrollador de Software. Construyo aplicaciones ro
 <details>
 <summary>Ver más repos</summary>
 <br>
+
+**Forks con los que juego:**
+- [OpenLogi](https://github.com/Trukitro/OpenLogi) 🖱️ — alternativa nativa y local a Logitech Options+, escrita en Rust
+- [pokeemerald-3Ds-dualscreen](https://github.com/Trukitro/pokeemerald-3Ds-dualscreen) 🎮 — port nativo de Pokémon Esmeralda para Nintendo 3DS
 
 Todos mis repos públicos están en [github.com/Trukitro?tab=repositories](https://github.com/Trukitro?tab=repositories).
 
