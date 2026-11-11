@@ -51,6 +51,34 @@ Todos mis repos públicos están en [github.com/Trukitro?tab=repositories](https
 
 </details>
 
+### 📥 Descargas
+
+<p align="center">
+  <a href="https://github.com/Trukitro/SpaceSweep/releases/latest"><img alt="SpaceSweep" src="https://img.shields.io/github/v/release/Trukitro/SpaceSweep?label=SpaceSweep&logo=windows&style=for-the-badge&color=58A6FF" /></a>
+  <a href="https://github.com/Trukitro/CuentaClara/releases/latest"><img alt="CuentaClara" src="https://img.shields.io/github/v/release/Trukitro/CuentaClara?label=CuentaClara&logo=windows&style=for-the-badge&color=58A6FF" /></a>
+</p>
+
+### 🖼️ Vistazo
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Trukitro/SpaceSweep"><img src="https://raw.githubusercontent.com/Trukitro/SpaceSweep/HEAD/docs/screenshots/cleanup.png" alt="SpaceSweep: limpieza explicada" /></a><br />
+      <sub><b>SpaceSweep</b> — cada elemento explicado antes de borrar</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Trukitro/Etch-DB-Mapper"><img src="https://raw.githubusercontent.com/Trukitro/Etch-DB-Mapper/HEAD/docs/images/04-mapa.png" alt="Etch-DB-Mapper: mapa de esquema" /></a><br />
+      <sub><b>Etch-DB-Mapper</b> — mapa visual del esquema</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/Trukitro/Koorui_Keyboard_Software"><img src="https://raw.githubusercontent.com/Trukitro/Koorui_Keyboard_Software/HEAD/docs/screenshot.png" alt="Koorui Keyboard Software: panel" width="50%" /></a><br />
+      <sub><b>Koorui Keyboard Software</b> — batería y luces desde la bandeja</sub>
+    </td>
+  </tr>
+</table>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -59,12 +87,6 @@ Todos mis repos públicos están en [github.com/Trukitro?tab=repositories](https
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trukitro&theme=radical" alt="GitHub Streak" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Trukitro&theme=react-dark" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
