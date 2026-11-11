@@ -53,10 +53,18 @@ Todos mis repos públicos están en [github.com/Trukitro?tab=repositories](https
 
 ### 📥 Descargas
 
-<p align="center">
-  <a href="https://github.com/Trukitro/SpaceSweep/releases/latest"><img alt="SpaceSweep" src="https://img.shields.io/github/v/release/Trukitro/SpaceSweep?label=SpaceSweep&logo=windows&style=for-the-badge&color=58A6FF" /></a>
-  <a href="https://github.com/Trukitro/CuentaClara/releases/latest"><img alt="CuentaClara" src="https://img.shields.io/github/v/release/Trukitro/CuentaClara?label=CuentaClara&logo=windows&style=for-the-badge&color=58A6FF" /></a>
-</p>
+Instaladores para Windows (CuentaClara también para macOS). Siempre apuntan a la última versión.
+
+| App | Versión | Descargar |
+|---|---|---|
+| [SpaceSweep](https://github.com/Trukitro/SpaceSweep) | <a href="https://github.com/Trukitro/SpaceSweep/releases/latest"><img alt="versión" src="https://img.shields.io/github/v/release/Trukitro/SpaceSweep?color=58A6FF" /></a> | [⬇️ Instalador](https://github.com/Trukitro/SpaceSweep/releases/latest/download/SpaceSweepSetup.exe) · [Ejecutable](https://github.com/Trukitro/SpaceSweep/releases/latest/download/SpaceSweep.exe) |
+| [CuentaClara](https://github.com/Trukitro/CuentaClara) | <a href="https://github.com/Trukitro/CuentaClara/releases/latest"><img alt="versión" src="https://img.shields.io/github/v/release/Trukitro/CuentaClara?color=58A6FF" /></a> | [⬇️ Windows](https://github.com/Trukitro/CuentaClara/releases/latest/download/CuentaClaraSetup.exe) · [macOS](https://github.com/Trukitro/CuentaClara/releases/latest/download/CuentaClaraSetup-macos.dmg) |
+| [Etch-DB-Mapper](https://github.com/Trukitro/Etch-DB-Mapper) | <a href="https://github.com/Trukitro/Etch-DB-Mapper/releases/latest"><img alt="versión" src="https://img.shields.io/github/v/release/Trukitro/Etch-DB-Mapper?color=58A6FF" /></a> | [⬇️ Ejecutable](https://github.com/Trukitro/Etch-DB-Mapper/releases/latest/download/Etch-DB-Mapper.exe) · [Instalador](https://github.com/Trukitro/Etch-DB-Mapper/releases/latest) |
+| [Koorui Keyboard Software](https://github.com/Trukitro/Koorui_Keyboard_Software) | <a href="https://github.com/Trukitro/Koorui_Keyboard_Software/releases/latest"><img alt="versión" src="https://img.shields.io/github/v/release/Trukitro/Koorui_Keyboard_Software?color=58A6FF" /></a> | [⬇️ Instalador](https://github.com/Trukitro/Koorui_Keyboard_Software/releases/latest/download/KooruiKeyboardSetup.exe) · [Ejecutable](https://github.com/Trukitro/Koorui_Keyboard_Software/releases/latest/download/KooruiKeyboard.exe) |
+| [SSH-Console-Launcher](https://github.com/Trukitro/SSH-Console-Launcher) | <a href="https://github.com/Trukitro/SSH-Console-Launcher/releases/latest"><img alt="versión" src="https://img.shields.io/github/v/release/Trukitro/SSH-Console-Launcher?color=58A6FF" /></a> | [⬇️ Instalador (última release)](https://github.com/Trukitro/SSH-Console-Launcher/releases/latest) |
+| [PulseGuard](https://github.com/Trukitro/PulseGuard) | <a href="https://github.com/Trukitro/PulseGuard/releases/latest"><img alt="versión" src="https://img.shields.io/github/v/release/Trukitro/PulseGuard?color=58A6FF" /></a> | [⬇️ Instalador](https://github.com/Trukitro/PulseGuard/releases/latest/download/PulseGuardSetup.exe) |
+| [SVG-Converter](https://github.com/Trukitro/SVG-Converter) | <a href="https://github.com/Trukitro/SVG-Converter/releases/latest"><img alt="versión" src="https://img.shields.io/github/v/release/Trukitro/SVG-Converter?color=58A6FF" /></a> | [⬇️ Instalador](https://github.com/Trukitro/SVG-Converter/releases/latest/download/SVG-Converter-Setup.exe) |
+| [DiskInfo](https://github.com/Trukitro/DiskInfo) | <a href="https://github.com/Trukitro/DiskInfo/releases/latest"><img alt="versión" src="https://img.shields.io/github/v/release/Trukitro/DiskInfo?color=58A6FF" /></a> | [⬇️ Instalador](https://github.com/Trukitro/DiskInfo/releases/latest/download/DiskInfoSetup.exe) |
 
 ### 🖼️ Vistazo
 
